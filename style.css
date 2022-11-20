@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inria+Serif&family=Poppins:wght@200;300&display=swap');
+
+
+.navbar a {
+    color: #fff;
+    font-family: 'Inria Serif', serif;
+  
+}  
+.navbar{
+    background-color: #E37D6A;
+}
+.navbar-nav{
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-link{
+    margin-left: 50px;
+}
+.logo{
+    display: flex;
+    margin-left: 20px;
+}
+
+.logo h5{
+    padding-left: 10px;
+    margin-top: 10px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.logo i{
+    margin-top: 15px;
+}
+
+.btn-applab {
+    background-color: #E37D6A;
+    color:#E37D6A;
+    padding: 4px 15px;
+    border-radius: 40px;
+    font-weight: 500;
+    border-width: 2px;
+    border-color: #fff;
+    border-style: solid;
+    text-decoration: none;
+}
