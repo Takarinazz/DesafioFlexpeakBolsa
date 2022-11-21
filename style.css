@@ -10,9 +10,10 @@
     background-color: #E37D6A;
 }
 .navbar-nav{
-    align-self: center;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    margin-left: 50%;
 }
 
 .nav-link{
@@ -43,4 +44,10 @@
     border-color: #fff;
     border-style: solid;
     text-decoration: none;
+}
+
+.iconer i{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
 }
